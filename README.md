@@ -1,3 +1,8 @@
+
+<img width="1536" height="1024" alt="Apple SIte-Web" src="https://github.com/user-attachments/assets/8ab17f66-d63a-4a71-b065-e597fb742f0f" />
+
+
+
 Este proyecto es una recreación de la experiencia visual y de interacción inspirada en la página oficial de Apple, desarrollada como práctica avanzada de diseño UI y desarrollo frontend moderno.
 
 El enfoque principal no fue copiar contenido, sino replicar el estilo premium, minimalista y fluido característico de Apple, combinando animaciones suaves, jerarquía visual clara y una experiencia de usuario elegante.
